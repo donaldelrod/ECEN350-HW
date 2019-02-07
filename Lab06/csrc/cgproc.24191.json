@@ -1,0 +1,39 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "GatesTest": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.0/_24191_archive_1.a",
+            "objects": [
+                [
+                    "W6mIe_d.o",
+                    11544
+                ]
+            ],
+            "size": 11544
+        }
+    ],
+    "CompUnits": {
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "bytes": 7205,
+            "mode": 4,
+            "checksum": 0
+        },
+        "W6mIe_d": {
+            "mod": "GatesTest",
+            "out": "W6mIe_d.o",
+            "bytes": 11544,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.0/_24191_archive_1.a"
+        }
+    },
+    "reusePaths": {}
+}

@@ -1,0 +1,39 @@
+{
+    "Modules": {
+        "DataMemoryTest_v": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "...MASTER...": {}
+    },
+    "CompUnits": {
+        "vPbM3_d": {
+            "mod": "DataMemoryTest_v",
+            "out": "vPbM3_d.o",
+            "archive": "archive.2/_20756_archive_1.a",
+            "checksum": 0,
+            "bytes": 27498,
+            "mode": 4
+        },
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "checksum": 0,
+            "bytes": 7213,
+            "mode": 4
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.2/_20756_archive_1.a",
+            "size": 27498,
+            "objects": [
+                [
+                    "vPbM3_d.o",
+                    27498
+                ]
+            ]
+        }
+    ],
+    "reusePaths": {}
+}

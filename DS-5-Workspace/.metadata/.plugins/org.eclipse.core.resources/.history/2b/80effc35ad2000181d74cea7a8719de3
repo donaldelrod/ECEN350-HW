@@ -1,0 +1,12 @@
+.section .text
+.globl test2
+
+test2:
+	SUB X1, X1, X0
+	ADRP X0, string
+	ADD X0, X0, :lo12:string
+	BL printf
+	BR X30
+
+.section .data
+	string: .asciz "Result of test2(6, 5) = %d\n"

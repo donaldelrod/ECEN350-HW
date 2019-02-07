@@ -1,0 +1,6 @@
+.section .text
+.globl test2
+
+test2:
+	SUB X0, X1, X0
+	BR X30

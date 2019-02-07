@@ -1,0 +1,17 @@
+Chronologic VCS simulator copyright 1991-2016
+Contains Synopsys proprietary information.
+Compiler version L-2016.06_Full64; Runtime version L-2016.06_Full64;  Apr  2 13:18 2018
+VCD+ Writer L-2016.06_Full64 Copyright (c) 1991-2016 by Synopsys Inc.
+The file '/home/ugrads/d/delrod19/ecen350/git/Lab08/p3/inter.vpd' was opened successfully.
+                        PC+4 Test passed
+   Conditional - Take Branch Test passed
+ itional - Don't Take Branch Test passed
+        Unconditional Branch Test passed
+All tests passed
+$finish called from file "NextPClogicTest.v", line 95.
+$finish at simulation time                19000
+Simulation complete, time is 19000 ps.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 19000 ps
+CPU Time:      0.160 seconds;       Data structure size:   0.0Mb
+Mon Apr  2 13:48:25 2018

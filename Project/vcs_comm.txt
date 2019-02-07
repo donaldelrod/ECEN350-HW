@@ -1,0 +1,1 @@
+vcs -gui NextPClogicTest.v NextPClogic.v -full64

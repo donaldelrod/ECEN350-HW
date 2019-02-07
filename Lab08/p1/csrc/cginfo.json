@@ -1,0 +1,102 @@
+{
+    "Misc": {
+        "cwd": "/home/ugrads/d/delrod19/ecen350/git/Lab08/p1",
+        "csrc": "csrc",
+        "csrc_abs": "/home/ugrads/d/delrod19/ecen350/git/Lab08/p1/csrc",
+        "daidir": "simv.daidir",
+        "daidir_abs": "/home/ugrads/d/delrod19/ecen350/git/Lab08/p1/simv.daidir",
+        "default_output_dir": "csrc",
+        "archive_dir": "archive.2"
+    },
+    "MlibObjs": {},
+    "stat": {
+        "CodeGen(%)": 30.843083912205174,
+        "ru_self_cgstart": {
+            "ru_utime_sec": 0.052366999999999997,
+            "ru_nvcsw": 304,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.056641999999999998,
+            "ru_maxrss_kb": 53996,
+            "ru_minflt": 13302,
+            "ru_nivcsw": 42
+        },
+        "ru_self_end": {
+            "ru_utime_sec": 0.075721999999999998,
+            "ru_nvcsw": 407,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.078877000000000003,
+            "ru_maxrss_kb": 61788,
+            "ru_minflt": 16108,
+            "ru_nivcsw": 59
+        },
+        "mopSpeed": 67137.657889102979,
+        "ru_childs_cgstart": {
+            "ru_utime_sec": 0.0,
+            "ru_nvcsw": 0,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_minflt": 0,
+            "ru_nivcsw": 0
+        },
+        "mop/quad": 2.3508245877061471,
+        "ru_childs_end": {
+            "ru_utime_sec": 0.0033040000000000001,
+            "ru_nvcsw": 8,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.0022030000000000001,
+            "ru_maxrss_kb": 15464,
+            "ru_minflt": 583,
+            "ru_nivcsw": 2
+        },
+        "nMops": 1568,
+        "Frontend(%)": 69.156916087794826,
+        "nQuads": 667,
+        "quadSpeed": 28559.195033183471,
+        "totalObjSize": 125590,
+        "outputSizePerQuad": 188.0
+    },
+    "PrevCompiledModules": {
+        "...MASTER...": {
+            "amcQw_d": {
+                "checksum": 0,
+                "bytes": 7621,
+                "mod": "...MASTER...",
+                "mode": 4,
+                "out": "objs/amcQw_d.o"
+            }
+        }
+    },
+    "CurCompileUdps": {},
+    "CompileStrategy": "fullobj",
+    "NameTable": {
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ],
+        "DataMemoryTest_v": [
+            "DataMemoryTest_v",
+            "vPbM3",
+            "module"
+        ]
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "...MASTER...",
+        "DataMemoryTest_v",
+        "DataMemoryTest_v"
+    ],
+    "CompileProcesses": [
+        "cgproc.20756.json"
+    ],
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 90879
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "PEModules": [],
+    "CompileStatus": "Successful"
+}

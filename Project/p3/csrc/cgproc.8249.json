@@ -1,0 +1,36 @@
+{
+    "reusePaths": {
+        "amcQw_d": {
+            "icPath": "csrc"
+        }
+    },
+    "Modules": {
+        "...MASTER...": {},
+        "SingleCycleProcTest_v": {
+            "Compiled": "Yes",
+            "Compiled Times": 46
+        }
+    },
+    "CompUnits": {
+        "keWLg_d": {
+            "out": "keWLg_d.o",
+            "mod": "SingleCycleProcTest_v",
+            "bytes": 81027,
+            "archive": "archive.52/_8249_archive_1.a",
+            "checksum": 0,
+            "mode": 4
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.52/_8249_archive_1.a",
+            "objects": [
+                [
+                    "keWLg_d.o",
+                    81027
+                ]
+            ],
+            "size": 81027
+        }
+    ]
+}

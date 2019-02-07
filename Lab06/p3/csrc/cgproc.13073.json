@@ -1,0 +1,36 @@
+{
+    "CompUnits": {
+        "RSGbb_d": {
+            "bytes": 16074,
+            "mod": "Decode24Test_v",
+            "out": "RSGbb_d.o",
+            "checksum": 0,
+            "mode": 4,
+            "archive": "archive.1/_13073_archive_1.a"
+        }
+    },
+    "Modules": {
+        "...MASTER...": {},
+        "Decode24Test_v": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.1/_13073_archive_1.a",
+            "objects": [
+                [
+                    "RSGbb_d.o",
+                    16074
+                ]
+            ],
+            "size": 16074
+        }
+    ],
+    "reusePaths": {
+        "amcQw_d": {
+            "icPath": "csrc"
+        }
+    }
+}

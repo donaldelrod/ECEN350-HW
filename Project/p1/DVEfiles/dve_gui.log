@@ -1,0 +1,21 @@
+Chronologic VCS simulator copyright 1991-2016
+Contains Synopsys proprietary information.
+Compiler version L-2016.06_Full64; Runtime version L-2016.06_Full64;  Apr  9 13:47 2018
+VCD+ Writer L-2016.06_Full64 Copyright (c) 1991-2016 by Synopsys Inc.
+The file '/home/ugrads/d/delrod19/ecen350/git/Project/p1/inter.vpd' was opened successfully.
+                      LDUR Opcode passed
+                      STUR Opcode passed
+                       ADD Opcode passed
+                       SUB Opcode passed
+                       AND Opcode passed
+                       ORR Opcode passed
+                       CBZ Opcode passed
+                         B Opcode passed
+All tests passed
+$finish called from file "SingleCycleControlTest.v", line 102.
+$finish at simulation time                27000
+Simulation complete, time is 27000 ps.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 27000 ps
+CPU Time:      0.080 seconds;       Data structure size:   0.0Mb
+Mon Apr  9 13:49:40 2018

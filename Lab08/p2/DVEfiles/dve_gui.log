@@ -1,0 +1,22 @@
+Chronologic VCS simulator copyright 1991-2016
+Contains Synopsys proprietary information.
+Compiler version L-2016.06_Full64; Runtime version L-2016.06_Full64;  Apr  2 13:16 2018
+VCD+ Writer L-2016.06_Full64 Copyright (c) 1991-2016 by Synopsys Inc.
+The file '/home/ugrads/d/delrod19/ecen350/git/Lab08/p2/inter.vpd' was opened successfully.
+                      Test Case 1 passed
+                      Test Case 2 passed
+                      Test Case 3 passed
+                      Test Case 4 passed
+                      Test Case 5 passed
+                      Test Case 6 passed
+                      Test Case 7 passed
+                      Test Case 8 passed
+                      Test Case 9 passed
+All tests passed
+$finish called from file "ALUControlTest.v", line 86.
+$finish at simulation time                95000
+Simulation complete, time is 95000 ps.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 95000 ps
+CPU Time:      0.180 seconds;       Data structure size:   0.0Mb
+Mon Apr  2 13:18:21 2018

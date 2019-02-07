@@ -1,0 +1,97 @@
+0 
+30
++cli+4
++itf+/softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/vcsdp.tab
++memcbk
++vcsd
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/softwares/Common/synopsys/vcs-mx_vL-2016.06/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/libvirsim.so /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/liberrorinf.so /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/libsnpsmalloc.so
+-Mout=simv
+-Msaverestoreobj=/softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=-ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/softwares/Common/synopsys/vcs-mx_vL-2016.06/include
+-debug=3
+-full64
+-gen_obj
+-gui
+-picarchive
+-ucli
+/softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/bin/vcs1
+SingleCycleProc.v
+SingleCycleProcTest.v
+45
+sysc_uni_pwd=/home/ugrads/d/delrod19/ecen350/git/Project/p3
+XDG_SESSION_ID=118602
+XDG_RUNTIME_DIR=/run/user/824006067
+XDG_DATA_DIRS=/home/ugrads/d/delrod19/.local/share/flatpak/exports/share/:/var/lib/flatpak/exports/share/:/usr/local/share/:/usr/share/
+VMR_MODE_FLAG=64
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_HOME=/softwares/Common/synopsys/vcs-mx_vL-2016.06
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH_OVERRIDE=linux
+VCS_ARCH=linux64
+USER_PRINCIPAL_NAME=delrod19@AUTH.TAMU.EDU
+UNAME=/bin/uname
+TOOL_HOME=/softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64
+SSH_TTY=/dev/pts/67
+SSH_CONNECTION=172.16.48.28 19256 165.91.159.18 22
+SSH_CLIENT=172.16.48.28 19256 22
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+QT_GRAPHICSSYSTEM_CHECKED=1
+QTLIB=/usr/lib/qt-3.3/lib
+QTINC=/usr/lib/qt-3.3/include
+QTDIR=/usr/lib/qt-3.3
+OVA_UUM=0
+MODULESHOME=/usr/share/Modules
+MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles
+LOADEDMODULES=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+KRB5CCNAME=FILE:/tmp/krb5cc_cdc824006067_H4tJAo
+HISTFILESIZE=10000
+HISTCONTROL=ignoredups
+DA_SESSION_ID_AUTH=77121df9-5ff2-8b43-89d0-10e60c43cc10
+CDS_LIC_FILE=5280@license.ece.tamu.edu
+CDC_PREW2KHOST=hera3
+CDC_LOCALHOST=hera3.engr.tamu.edu
+CDC_JOINED_ZONE=CN=Servers,CN=Override,CN=ECEN,CN=Depts,CN=Global,CN=Zones,OU=Centrify,OU=Services,DC=engr,DC=tamu,DC=edu
+CDC_JOINED_SITE=Default-First-Site-Name
+CDC_JOINED_DOMAIN=engr.tamu.edu
+CDC_JOINED_DC=ops4.engr.tamu.edu
+BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`_}
+0
+11
+1523305110 DataMemory.v
+1524529798 SingleCycleControl.v
+1524518528 ALUControl.v
+1524527618 ALU.v
+1524527715 NextPClogic.v
+1524512873 RegisterFile.v
+1524529611 SignExtender.v
+1524541648 InstructionMemory.v
+1524529843 SingleCycleProc.v
+1524541753 SingleCycleProcTest.v
+1464145466 /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/vcsdp.tab
+4
+0 
+1464147802 /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/libvirsim.so
+1464147272 /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/liberrorinf.so
+1464147248 /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/libsnpsmalloc.so
+1524541756 simv.daidir

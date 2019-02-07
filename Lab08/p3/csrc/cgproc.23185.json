@@ -1,0 +1,39 @@
+{
+    "reusePaths": {},
+    "Modules": {
+        "...MASTER...": {},
+        "NextPClogicTest": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "CompUnits": {
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "bytes": 7205,
+            "checksum": 0,
+            "mode": 4
+        },
+        "RwtTU_d": {
+            "mod": "NextPClogicTest",
+            "out": "RwtTU_d.o",
+            "bytes": 20997,
+            "checksum": 0,
+            "mode": 4,
+            "archive": "archive.0/_23185_archive_1.a"
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.0/_23185_archive_1.a",
+            "objects": [
+                [
+                    "RwtTU_d.o",
+                    20997
+                ]
+            ],
+            "size": 20997
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+Chronologic VCS simulator copyright 1991-2016
+Contains Synopsys proprietary information.
+Compiler version L-2016.06_Full64; Runtime version L-2016.06_Full64;  Mar  5 14:03 2018
+VCD+ Writer L-2016.06_Full64 Copyright (c) 1991-2016 by Synopsys Inc.
+The file '/home/ugrads/d/delrod19/ecen350/git/Lab06/inter.vpd' was opened successfully.
+$finish called from file "GatesTest.v", line 14.
+$finish at simulation time                   40
+Simulation complete, time is 40.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 40
+CPU Time:      0.140 seconds;       Data structure size:   0.0Mb
+Mon Mar  5 14:09:55 2018
+Updating preference file: /home/ugrads/d/delrod19/.synopsys_dve_prefs.tcl

@@ -1,0 +1,39 @@
+{
+    "ObjArchives": [
+        {
+            "objects": [
+                [
+                    "SK7WZ_d.o",
+                    59369
+                ]
+            ],
+            "archive": "archive.0/_37868_archive_1.a",
+            "size": 59369
+        }
+    ],
+    "CompUnits": {
+        "amcQw_d": {
+            "out": "objs/amcQw_d.o",
+            "mod": "...MASTER...",
+            "bytes": 7213,
+            "mode": 4,
+            "checksum": 0
+        },
+        "SK7WZ_d": {
+            "out": "SK7WZ_d.o",
+            "mod": "RegisterFileTest_v",
+            "bytes": 59369,
+            "archive": "archive.0/_37868_archive_1.a",
+            "mode": 4,
+            "checksum": 0
+        }
+    },
+    "Modules": {
+        "RegisterFileTest_v": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "...MASTER...": {}
+    },
+    "reusePaths": {}
+}

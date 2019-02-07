@@ -1,0 +1,36 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "SignExtenderTest": {
+            "Compiled Times": 2,
+            "Compiled": "Yes"
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.1/_16158_archive_1.a",
+            "objects": [
+                [
+                    "b62dI_d.o",
+                    23071
+                ]
+            ],
+            "size": 23071
+        }
+    ],
+    "CompUnits": {
+        "b62dI_d": {
+            "archive": "archive.1/_16158_archive_1.a",
+            "out": "b62dI_d.o",
+            "mod": "SignExtenderTest",
+            "bytes": 23071,
+            "mode": 4,
+            "checksum": 0
+        }
+    },
+    "reusePaths": {
+        "amcQw_d": {
+            "icPath": "csrc"
+        }
+    }
+}

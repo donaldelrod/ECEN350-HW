@@ -1,0 +1,102 @@
+{
+    "CompileProcesses": [
+        "cgproc.21945.json"
+    ],
+    "CurCompileModules": [
+        "...MASTER...",
+        "...MASTER...",
+        "ALUControl_tb",
+        "ALUControl_tb"
+    ],
+    "MlibObjs": {},
+    "stat": {
+        "quadSpeed": 29282.467774383425,
+        "ru_self_cgstart": {
+            "ru_nvcsw": 287,
+            "ru_utime_sec": 0.044832999999999998,
+            "ru_minflt": 13186,
+            "ru_stime_sec": 0.044832999999999998,
+            "ru_nivcsw": 38,
+            "ru_maxrss_kb": 53396,
+            "ru_majflt": 0
+        },
+        "outputSizePerQuad": 305.0,
+        "ru_childs_cgstart": {
+            "ru_nvcsw": 0,
+            "ru_utime_sec": 0.0,
+            "ru_minflt": 0,
+            "ru_stime_sec": 0.0,
+            "ru_nivcsw": 0,
+            "ru_maxrss_kb": 0,
+            "ru_majflt": 0
+        },
+        "nMops": 737,
+        "ru_childs_end": {
+            "ru_nvcsw": 7,
+            "ru_utime_sec": 0.00096599999999999995,
+            "ru_minflt": 581,
+            "ru_stime_sec": 0.0038660000000000001,
+            "ru_nivcsw": 2,
+            "ru_maxrss_kb": 15252,
+            "ru_majflt": 0
+        },
+        "nQuads": 393,
+        "totalObjSize": 120190,
+        "ru_self_end": {
+            "ru_nvcsw": 392,
+            "ru_utime_sec": 0.058254,
+            "ru_minflt": 15902,
+            "ru_stime_sec": 0.063190999999999997,
+            "ru_nivcsw": 54,
+            "ru_maxrss_kb": 61184,
+            "ru_majflt": 0
+        },
+        "mopSpeed": 54913.940838983675,
+        "mop/quad": 1.8753180661577609,
+        "Frontend(%)": 76.961238713221405,
+        "CodeGen(%)": 23.038761286778595
+    },
+    "CurCompileUdps": {},
+    "PrevCompiledModules": {
+        "...MASTER...": {
+            "amcQw_d": {
+                "checksum": 0,
+                "bytes": 7205,
+                "mod": "...MASTER...",
+                "out": "objs/amcQw_d.o",
+                "mode": 4
+            }
+        }
+    },
+    "CompileStrategy": "fullobj",
+    "PEModules": [],
+    "NameTable": {
+        "ALUControl_tb": [
+            "ALUControl_tb",
+            "mgeck",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 91527
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "Misc": {
+        "cwd": "/home/ugrads/d/delrod19/ecen350/git/Lab08/p2",
+        "csrc": "csrc",
+        "archive_dir": "archive.1",
+        "daidir": "simv.daidir",
+        "csrc_abs": "/home/ugrads/d/delrod19/ecen350/git/Lab08/p2/csrc",
+        "default_output_dir": "csrc",
+        "daidir_abs": "/home/ugrads/d/delrod19/ecen350/git/Lab08/p2/simv.daidir"
+    },
+    "CompileStatus": "Successful"
+}

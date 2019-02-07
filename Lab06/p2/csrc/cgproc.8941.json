@@ -1,0 +1,36 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "Mux21Test_v": {
+            "Compiled": "Yes",
+            "Compiled Times": 3
+        }
+    },
+    "CompUnits": {
+        "kitW2_d": {
+            "out": "kitW2_d.o",
+            "mod": "Mux21Test_v",
+            "checksum": 0,
+            "bytes": 21740,
+            "archive": "archive.2/_8941_archive_1.a",
+            "mode": 4
+        }
+    },
+    "reusePaths": {
+        "amcQw_d": {
+            "icPath": "csrc"
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.2/_8941_archive_1.a",
+            "objects": [
+                [
+                    "kitW2_d.o",
+                    21740
+                ]
+            ],
+            "size": 21740
+        }
+    ]
+}

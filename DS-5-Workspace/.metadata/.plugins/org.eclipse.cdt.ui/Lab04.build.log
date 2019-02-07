@@ -1,0 +1,8 @@
+14:32:07 **** Incremental Build of configuration Default for project Lab04 ****
+make all 
+aarch64-elf-gcc -c -march=armv8-a -g -O0 main.c -o main.o
+aarch64-elf-gcc --specs=aem-ve.specs -Wl,--build-id=none main.o my_mul.o lab04b.o -o Lab04.axf
+Build completed.
+
+14:32:07 Build Finished (took 216ms)
+

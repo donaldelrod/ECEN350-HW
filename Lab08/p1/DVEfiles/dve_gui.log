@@ -1,0 +1,31 @@
+Chronologic VCS simulator copyright 1991-2016
+Contains Synopsys proprietary information.
+Compiler version L-2016.06_Full64; Runtime version L-2016.06_Full64;  Apr  2 13:01 2018
+VCD+ Writer L-2016.06_Full64 Copyright (c) 1991-2016 by Synopsys Inc.
+The file '/home/ugrads/d/delrod19/ecen350/git/Lab08/p1/inter.vpd' was opened successfully.
+Init Memory with some useful data
+                Read address 0x14 passed
+                Read address 0xf0 passed
+                Read address 0xcc passed
+                Read address 0xc8 passed
+                 Read address 0xc passed
+All tests passed
+Simulation complete, time is 1770000 ps.
+Chronologic VCS simulator copyright 1991-2016
+Contains Synopsys proprietary information.
+Compiler version L-2016.06_Full64; Runtime version L-2016.06_Full64;  Apr  2 13:02 2018
+VCD+ Writer L-2016.06_Full64 Copyright (c) 1991-2016 by Synopsys Inc.
+The file '/home/ugrads/d/delrod19/ecen350/git/Lab08/p1/inter.vpd' was opened successfully.
+10000000 ps
+Init Memory with some useful data
+                Read address 0x14 passed
+                Read address 0xf0 passed
+                Read address 0xcc passed
+                Read address 0xc8 passed
+                 Read address 0xc passed
+All tests passed
+20000000 ps
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 20000000 ps
+CPU Time:      0.080 seconds;       Data structure size:   0.0Mb
+Mon Apr  2 13:16:01 2018

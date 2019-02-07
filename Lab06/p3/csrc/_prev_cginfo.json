@@ -1,0 +1,92 @@
+{
+    "MlibObjs": {},
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 90221
+    },
+    "CompileStatus": "Successful",
+    "PrevCompiledModules": {},
+    "CurCompileUdps": {},
+    "NameTable": {
+        "Decode24Test_v": [
+            "Decode24Test_v",
+            "RSGbb",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "CompileProcesses": [
+        "cgproc.12103.json"
+    ],
+    "CompileStrategy": "fullobj",
+    "Misc": {
+        "cwd": "/home/ugrads/d/delrod19/ecen350/git/Lab06/p3",
+        "csrc_abs": "/home/ugrads/d/delrod19/ecen350/git/Lab06/p3/csrc",
+        "csrc": "csrc",
+        "default_output_dir": "csrc",
+        "daidir": "simv.daidir",
+        "daidir_abs": "/home/ugrads/d/delrod19/ecen350/git/Lab06/p3/simv.daidir",
+        "archive_dir": "archive.0"
+    },
+    "PEModules": [],
+    "stat": {
+        "ru_self_cgstart": {
+            "ru_utime_sec": 0.056492000000000001,
+            "ru_nivcsw": 31,
+            "ru_stime_sec": 0.03329,
+            "ru_nvcsw": 196,
+            "ru_minflt": 13207,
+            "ru_maxrss_kb": 52876,
+            "ru_majflt": 0
+        },
+        "mop/quad": 2.165991902834008,
+        "ru_childs_cgstart": {
+            "ru_utime_sec": 0.0,
+            "ru_nivcsw": 0,
+            "ru_stime_sec": 0.0,
+            "ru_nvcsw": 0,
+            "ru_minflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_majflt": 0
+        },
+        "nQuads": 247,
+        "nMops": 535,
+        "totalObjSize": 113500,
+        "ru_self_end": {
+            "ru_utime_sec": 0.072041999999999995,
+            "ru_nivcsw": 41,
+            "ru_stime_sec": 0.044254000000000002,
+            "ru_nvcsw": 287,
+            "ru_minflt": 15366,
+            "ru_maxrss_kb": 60288,
+            "ru_majflt": 0
+        },
+        "ru_childs_end": {
+            "ru_utime_sec": 0.0,
+            "ru_nivcsw": 0,
+            "ru_stime_sec": 0.0,
+            "ru_nvcsw": 0,
+            "ru_minflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_majflt": 0
+        },
+        "mopSpeed": 34405.144694533774,
+        "outputSizePerQuad": 459.0,
+        "quadSpeed": 15884.244372990359,
+        "Frontend(%)": 78.415368812637084,
+        "CodeGen(%)": 21.584631187362923
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "...MASTER...",
+        "Decode24Test_v",
+        "Decode24Test_v"
+    ],
+    "LVLData": [
+        "SIM"
+    ]
+}

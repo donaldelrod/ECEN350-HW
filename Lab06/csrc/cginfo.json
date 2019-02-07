@@ -1,0 +1,92 @@
+{
+    "CurCompileModules": [
+        "...MASTER...",
+        "...MASTER...",
+        "GatesTest",
+        "GatesTest"
+    ],
+    "MlibObjs": {},
+    "CompileStrategy": "fullobj",
+    "CurCompileUdps": {},
+    "PrevCompiledModules": {},
+    "CompileProcesses": [
+        "cgproc.24191.json"
+    ],
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 88797
+    },
+    "NameTable": {
+        "GatesTest": [
+            "GatesTest",
+            "W6mIe",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "PEModules": [],
+    "stat": {
+        "quadSpeed": 12807.109252483009,
+        "ru_self_cgstart": {
+            "ru_utime_sec": 0.062344999999999998,
+            "ru_nvcsw": 332,
+            "ru_stime_sec": 0.080939999999999998,
+            "ru_minflt": 12593,
+            "ru_maxrss_kb": 51352,
+            "ru_nivcsw": 164,
+            "ru_majflt": 10
+        },
+        "Frontend(%)": 84.452000054183657,
+        "ru_childs_cgstart": {
+            "ru_utime_sec": 0.0,
+            "ru_nvcsw": 0,
+            "ru_stime_sec": 0.0,
+            "ru_minflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_nivcsw": 0,
+            "ru_majflt": 0
+        },
+        "mopSpeed": 44171.458442237315,
+        "nMops": 507,
+        "ru_childs_end": {
+            "ru_utime_sec": 0.0,
+            "ru_nvcsw": 0,
+            "ru_stime_sec": 0.0,
+            "ru_minflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_nivcsw": 0,
+            "ru_majflt": 0
+        },
+        "nQuads": 147,
+        "ru_self_end": {
+            "ru_utime_sec": 0.073823,
+            "ru_nvcsw": 425,
+            "ru_stime_sec": 0.093656000000000003,
+            "ru_minflt": 14849,
+            "ru_maxrss_kb": 58988,
+            "ru_nivcsw": 174,
+            "ru_majflt": 10
+        },
+        "totalObjSize": 107546,
+        "mop/quad": 3.4489795918367347,
+        "outputSizePerQuad": 731.0,
+        "CodeGen(%)": 15.547999945816347
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "Misc": {
+        "csrc": "csrc",
+        "cwd": "/home/ugrads/d/delrod19/ecen350/git/Lab06",
+        "csrc_abs": "/home/ugrads/d/delrod19/ecen350/git/Lab06/csrc",
+        "daidir": "simv.daidir",
+        "archive_dir": "archive.0",
+        "daidir_abs": "/home/ugrads/d/delrod19/ecen350/git/Lab06/simv.daidir",
+        "default_output_dir": "csrc"
+    },
+    "CompileStatus": "Successful"
+}

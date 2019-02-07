@@ -1,0 +1,39 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "ALUControl_tb": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "reusePaths": {},
+    "CompUnits": {
+        "mgeck_d": {
+            "mod": "ALUControl_tb",
+            "out": "mgeck_d.o",
+            "checksum": 0,
+            "bytes": 21458,
+            "mode": 4,
+            "archive": "archive.1/_21945_archive_1.a"
+        },
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "checksum": 0,
+            "bytes": 7205,
+            "mode": 4
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.1/_21945_archive_1.a",
+            "objects": [
+                [
+                    "mgeck_d.o",
+                    21458
+                ]
+            ],
+            "size": 21458
+        }
+    ]
+}

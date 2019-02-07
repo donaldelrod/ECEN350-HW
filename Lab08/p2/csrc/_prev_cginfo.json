@@ -1,0 +1,89 @@
+{
+    "Misc": {
+        "cwd": "/home/ugrads/d/delrod19/ecen350/git/Lab08/p2",
+        "archive_dir": "archive.0",
+        "csrc": "csrc",
+        "csrc_abs": "/home/ugrads/d/delrod19/ecen350/git/Lab08/p2/csrc",
+        "daidir": "simv.daidir",
+        "daidir_abs": "/home/ugrads/d/delrod19/ecen350/git/Lab08/p2/simv.daidir",
+        "default_output_dir": "csrc"
+    },
+    "MlibObjs": {},
+    "PrevCompiledModules": {},
+    "NameTable": {
+        "ALUControl": [
+            "ALUControl",
+            "T2ZgQ",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "...MASTER...",
+        "ALUControl",
+        "ALUControl"
+    ],
+    "stat": {
+        "Frontend(%)": 80.92905498376355,
+        "ru_self_cgstart": {
+            "ru_nvcsw": 196,
+            "ru_utime_sec": 0.029408,
+            "ru_stime_sec": 0.030497,
+            "ru_nivcsw": 29,
+            "ru_minflt": 12499,
+            "ru_maxrss_kb": 50780,
+            "ru_majflt": 0
+        },
+        "outputSizePerQuad": 1765.0,
+        "ru_childs_cgstart": {
+            "ru_nvcsw": 0,
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_nivcsw": 0,
+            "ru_minflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_majflt": 0
+        },
+        "nMops": 143,
+        "nQuads": 59,
+        "ru_self_end": {
+            "ru_nvcsw": 289,
+            "ru_utime_sec": 0.036338000000000002,
+            "ru_stime_sec": 0.038475000000000002,
+            "ru_nivcsw": 39,
+            "ru_minflt": 14691,
+            "ru_maxrss_kb": 58380,
+            "ru_majflt": 0
+        },
+        "totalObjSize": 104150,
+        "CodeGen(%)": 19.07094501623645,
+        "ru_childs_end": {
+            "ru_nvcsw": 0,
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_nivcsw": 0,
+            "ru_minflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_majflt": 0
+        }
+    },
+    "CompileStrategy": "fullobj",
+    "CurCompileUdps": {},
+    "PEModules": [],
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 88801
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "CompileProcesses": [
+        "cgproc.47920.json"
+    ],
+    "CompileStatus": "Successful"
+}

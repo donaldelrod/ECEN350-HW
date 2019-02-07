@@ -1,0 +1,36 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "FullAddTest_v": {
+            "Compiled": "Yes",
+            "Compiled Times": 3
+        }
+    },
+    "CompUnits": {
+        "Q4HGk_d": {
+            "mod": "FullAddTest_v",
+            "out": "Q4HGk_d.o",
+            "archive": "archive.2/_6696_archive_1.a",
+            "checksum": 0,
+            "bytes": 18210,
+            "mode": 4
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.2/_6696_archive_1.a",
+            "objects": [
+                [
+                    "Q4HGk_d.o",
+                    18210
+                ]
+            ],
+            "size": 18210
+        }
+    ],
+    "reusePaths": {
+        "amcQw_d": {
+            "icPath": "csrc"
+        }
+    }
+}

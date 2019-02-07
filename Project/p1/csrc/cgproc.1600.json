@@ -1,0 +1,36 @@
+{
+    "Modules": {
+        "...MASTER...": {},
+        "SingleCycleControlTest": {
+            "Compiled": "Yes",
+            "Compiled Times": 2
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.1/_1600_archive_1.a",
+            "size": 29285,
+            "objects": [
+                [
+                    "Vv6RQ_d.o",
+                    29285
+                ]
+            ]
+        }
+    ],
+    "CompUnits": {
+        "Vv6RQ_d": {
+            "mod": "SingleCycleControlTest",
+            "bytes": 29285,
+            "out": "Vv6RQ_d.o",
+            "archive": "archive.1/_1600_archive_1.a",
+            "mode": 4,
+            "checksum": 0
+        }
+    },
+    "reusePaths": {
+        "amcQw_d": {
+            "icPath": "csrc"
+        }
+    }
+}

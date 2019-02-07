@@ -1,0 +1,5 @@
+13:21:15 **** Incremental Build of configuration Default for project Lab05a ****
+make all 
+aarch64-elf-gcc -c -march=armv8-a -g -O0 test2.S -o test2.o
+aarch64-elf-gcc --specs=aem-ve.specs -Wl,--build-id=none main.o test2.o test.o -o Lab05a.axf
+Build completed.

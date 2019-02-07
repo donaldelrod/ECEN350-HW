@@ -1,0 +1,79 @@
+Chronologic VCS simulator copyright 1991-2016
+Contains Synopsys proprietary information.
+Compiler version L-2016.06_Full64; Runtime version L-2016.06_Full64;  Apr  2 12:49 2018
+VCD+ Writer L-2016.06_Full64 Copyright (c) 1991-2016 by Synopsys Inc.
+The file '/home/ugrads/d/delrod19/ecen350/git/Lab07/p2/inter.vpd' was opened successfully.
+               Initial $0 Check 1 passed
+               Initial $0 Check 2 passed
+               Initial $0 Check 3 passed
+               Initial $0 Check 4 passed
+               $0 Stays 0 Check 1 passed
+               $0 Stays 0 Check 2 passed
+            Initial Value Check 1 passed
+            Initial Value Check 2 passed
+                  Value Updated 1 passed
+              Value Stayed Same 1 passed
+            Initial Value Check 3 passed
+            Initial Value Check 4 passed
+              Value Not Updated 2 passed
+              Value Stayed Same 2 passed
+            Initial Value Check 5 passed
+            Initial Value Check 6 passed
+              Value Not Updated 3 passed
+              Value Stayed Same 3 passed
+            Initial Value Check 7 passed
+            Initial Value Check 8 passed
+              Value Not Updated 4 passed
+              Value Stayed Same 4 passed
+            Initial Value Check 9 passed
+           Initial Value Check 10 passed
+              Value Not Updated 5 passed
+              Value Stayed Same 5 passed
+           Initial Value Check 11 passed
+           Initial Value Check 12 passed
+              Value Not Updated 6 passed
+              Value Stayed Same 6 passed
+           Initial Value Check 13 passed
+           Initial Value Check 14 passed
+              Value Not Updated 7 passed
+              Value Stayed Same 7 passed
+           Initial Value Check 15 passed
+           Initial Value Check 16 passed
+              Value Not Updated 8 passed
+              Value Stayed Same 8 passed
+           Initial Value Check 17 passed
+           Initial Value Check 18 passed
+              Value Not Updated 9 passed
+              Value Stayed Same 9 passed
+           Initial Value Check 19 passed
+           Initial Value Check 20 passed
+             Value Not Updated 10 passed
+             Value Stayed Same 10 passed
+           Initial Value Check 21 passed
+           Initial Value Check 22 passed
+             Value Not Updated 11 passed
+             Value Stayed Same 11 passed
+           Initial Value Check 23 passed
+           Initial Value Check 24 passed
+             Value Not Updated 12 passed
+             Value Stayed Same 12 passed
+           Initial Value Check 25 passed
+           Initial Value Check 26 passed
+             Value Not Updated 13 passed
+             Value Stayed Same 13 passed
+           Initial Value Check 27 passed
+           Initial Value Check 28 passed
+             Value Not Updated 14 passed
+             Value Stayed Same 14 passed
+           Initial Value Check 29 passed
+           Initial Value Check 30 passed
+             Value Not Updated 15 passed
+             Value Stayed Same 15 passed
+           Initial Value Check 31 passed
+             Value Not Updated 16 passed
+All tests passed
+Simulation complete, time is 1020000 ps.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1020000 ps
+CPU Time:      0.080 seconds;       Data structure size:   0.0Mb
+Mon Apr  2 12:49:30 2018

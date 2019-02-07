@@ -1,0 +1,89 @@
+0 
+30
++cli+4
++itf+/softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/vcsdp.tab
++memcbk
++vcsd
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/softwares/Common/synopsys/vcs-mx_vL-2016.06/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/libvirsim.so /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/liberrorinf.so /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/libsnpsmalloc.so
+-Mout=simv
+-Msaverestoreobj=/softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=-ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/softwares/Common/synopsys/vcs-mx_vL-2016.06/include
+-debug=3
+-full64
+-gen_obj
+-gui
+-picarchive
+-ucli
+/softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/bin/vcs1
+RegisterFile.v
+RegisterFileTest.v
+45
+sysc_uni_pwd=/home/ugrads/d/delrod19/ecen350/git/Lab07/p2
+XDG_SESSION_ID=48972
+XDG_RUNTIME_DIR=/run/user/824006067
+XDG_DATA_DIRS=/home/ugrads/d/delrod19/.local/share/flatpak/exports/share/:/var/lib/flatpak/exports/share/:/usr/local/share/:/usr/share/
+VMR_MODE_FLAG=64
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_HOME=/softwares/Common/synopsys/vcs-mx_vL-2016.06
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH_OVERRIDE=linux
+VCS_ARCH=linux64
+USER_PRINCIPAL_NAME=delrod19@AUTH.TAMU.EDU
+UNAME=/bin/uname
+TOOL_HOME=/softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64
+SSH_TTY=/dev/pts/20
+SSH_CONNECTION=10.230.49.222 13844 165.91.159.18 22
+SSH_CLIENT=10.230.49.222 13844 22
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+QT_GRAPHICSSYSTEM_CHECKED=1
+QTLIB=/usr/lib/qt-3.3/lib
+QTINC=/usr/lib/qt-3.3/include
+QTDIR=/usr/lib/qt-3.3
+OVA_UUM=0
+MODULESHOME=/usr/share/Modules
+MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles
+LOADEDMODULES=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+KRB5CCNAME=FILE:/tmp/krb5cc_cdc824006067_jl2Xal
+HISTFILESIZE=10000
+HISTCONTROL=ignoredups
+DA_SESSION_ID_AUTH=12c69e11-4b5f-5247-b228-b2cbbb3a1e2f
+CDS_LIC_FILE=5280@license.ece.tamu.edu
+CDC_PREW2KHOST=hera3
+CDC_LOCALHOST=hera3.engr.tamu.edu
+CDC_JOINED_ZONE=CN=Servers,CN=Override,CN=ECEN,CN=Depts,CN=Global,CN=Zones,OU=Centrify,OU=Services,DC=engr,DC=tamu,DC=edu
+CDC_JOINED_SITE=Default-First-Site-Name
+CDC_JOINED_DOMAIN=engr.tamu.edu
+CDC_JOINED_DC=ops2.engr.tamu.edu
+BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`_}
+0
+3
+1522259201 RegisterFile.v
+1522258661 RegisterFileTest.v
+1464145466 /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/vcsdp.tab
+4
+0 
+1464147802 /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/libvirsim.so
+1464147272 /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/liberrorinf.so
+1464147248 /softwares/Common/synopsys/vcs-mx_vL-2016.06/linux64/lib/libsnpsmalloc.so
+1522259204 simv.daidir

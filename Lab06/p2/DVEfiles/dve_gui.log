@@ -1,0 +1,19 @@
+Chronologic VCS simulator copyright 1991-2016
+Contains Synopsys proprietary information.
+Compiler version L-2016.06_Full64; Runtime version L-2016.06_Full64;  Mar 26 13:13 2018
+VCD+ Writer L-2016.06_Full64 Copyright (c) 1991-2016 by Synopsys Inc.
+The file '/home/ugrads/d/delrod19/ecen350/git/Lab06/p2/inter.vpd' was opened successfully.
+  Select First 0 passed
+  Select First 1 passed
+  Select First 2 passed
+  Select First 3 passed
+ Select Second 0 passed
+ Select Second 1 passed
+ Select Second 2 passed
+ Select Second 3 passed
+All tests passed
+Simulation complete, time is 800000 ps.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 800000 ps
+CPU Time:      0.150 seconds;       Data structure size:   0.0Mb
+Mon Mar 26 13:14:09 2018

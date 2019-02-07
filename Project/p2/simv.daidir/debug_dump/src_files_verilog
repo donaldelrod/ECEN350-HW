@@ -1,0 +1,10 @@
+/home/ugrads/d/delrod19/ecen350/git/Project/p2/ALU.v
+/home/ugrads/d/delrod19/ecen350/git/Project/p2/ALUControl.v
+/home/ugrads/d/delrod19/ecen350/git/Project/p2/DataMemory.v
+/home/ugrads/d/delrod19/ecen350/git/Project/p2/InstructionMemory.v
+/home/ugrads/d/delrod19/ecen350/git/Project/p2/NextPClogic.v
+/home/ugrads/d/delrod19/ecen350/git/Project/p2/RegisterFile.v
+/home/ugrads/d/delrod19/ecen350/git/Project/p2/SignExtender.v
+/home/ugrads/d/delrod19/ecen350/git/Project/p2/SingleCycleControl.v
+/home/ugrads/d/delrod19/ecen350/git/Project/p2/SingleCycleProc.v
+/home/ugrads/d/delrod19/ecen350/git/Project/p2/SingleCycleProcTest.v

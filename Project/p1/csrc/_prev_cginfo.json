@@ -1,0 +1,92 @@
+{
+    "MlibObjs": {},
+    "PrevCompiledModules": {},
+    "NameTable": {
+        "SingleCycleControlTest": [
+            "SingleCycleControlTest",
+            "Vv6RQ",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "CompileStrategy": "fullobj",
+    "CompileProcesses": [
+        "cgproc.32467.json"
+    ],
+    "stat": {
+        "ru_self_cgstart": {
+            "ru_stime_sec": 0.032543999999999997,
+            "ru_utime_sec": 0.045945,
+            "ru_maxrss_kb": 53472,
+            "ru_minflt": 13424,
+            "ru_majflt": 0,
+            "ru_nivcsw": 31,
+            "ru_nvcsw": 203
+        },
+        "ru_childs_cgstart": {
+            "ru_stime_sec": 0.0,
+            "ru_utime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_minflt": 0,
+            "ru_majflt": 0,
+            "ru_nivcsw": 0,
+            "ru_nvcsw": 0
+        },
+        "quadSpeed": 37427.964816499851,
+        "nMops": 2064,
+        "totalObjSize": 127799,
+        "nQuads": 617,
+        "ru_self_end": {
+            "ru_stime_sec": 0.040339,
+            "ru_utime_sec": 0.062429999999999999,
+            "ru_maxrss_kb": 61452,
+            "ru_minflt": 15702,
+            "ru_majflt": 0,
+            "ru_nivcsw": 41,
+            "ru_nvcsw": 288
+        },
+        "ru_childs_end": {
+            "ru_stime_sec": 0.0,
+            "ru_utime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_minflt": 0,
+            "ru_majflt": 0,
+            "ru_nivcsw": 0,
+            "ru_nvcsw": 0
+        },
+        "mopSpeed": 125204.73157415833,
+        "mop/quad": 3.3452188006482984,
+        "outputSizePerQuad": 207.0,
+        "Frontend(%)": 73.59442575684767,
+        "CodeGen(%)": 26.40557424315233
+    },
+    "CurCompileUdps": {},
+    "LVLData": [
+        "SIM"
+    ],
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 91301
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "...MASTER...",
+        "SingleCycleControlTest",
+        "SingleCycleControlTest"
+    ],
+    "PEModules": [],
+    "Misc": {
+        "archive_dir": "archive.0",
+        "default_output_dir": "csrc",
+        "csrc": "csrc",
+        "cwd": "/home/ugrads/d/delrod19/ecen350/git/Project/p1",
+        "csrc_abs": "/home/ugrads/d/delrod19/ecen350/git/Project/p1/csrc",
+        "daidir": "simv.daidir",
+        "daidir_abs": "/home/ugrads/d/delrod19/ecen350/git/Project/p1/simv.daidir"
+    },
+    "CompileStatus": "Successful"
+}

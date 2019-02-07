@@ -1,0 +1,4 @@
+ConnectionManager.savedConnections=<?xml version\="1.0" encoding\="UTF-8"?>\n<connections>\n\t<connection current\="no" mode\="debug" type\="com.arm.debugger.launcher2">Lab01</connection>\n\t<connection current\="no" mode\="debug" type\="com.arm.debugger.launcher2">Lab02</connection>\n\t<connection current\="no" mode\="debug" type\="com.arm.debugger.launcher2">Lab03</connection>\n\t<connection current\="no" mode\="debug" type\="com.arm.debugger.launcher2">Lab04</connection>\n\t<connection current\="yes" mode\="debug" type\="com.arm.debugger.launcher2">Lab05</connection>\n</connections>\n
+PreferredTargetHasBeenSet=true
+debugger.perspective.switch.preference.launch=always
+eclipse.preferences.version=1
